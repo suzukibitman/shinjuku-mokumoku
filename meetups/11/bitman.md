@@ -10,6 +10,9 @@ Makefileをいじったり、シェルスクリプトをいじっています
 perlの勉強
 https://perl-entrance-tokyo.connpass.com/event/96380/
 
+pngのライブラリをひたする読みます
+できれば、TODOにあるサンプルを作りたいと思っています
+
 ## (option) 相談するかもしれないこと
 
 githubはわかりません。お聞きするかもしれません
